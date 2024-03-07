@@ -1,9 +1,9 @@
 # Useful-Notes
-Anotações úteis e importantes, para consulta permanente e ajuda à comunidade.
+Minhas anotações úteis e importantes, para consulta permanente e ajuda à comunidade.
 
-Useful and important notes, for permanent reference and help to the community.
+My useful and important notes, for permanent reference and help to the community.
 
-### Objetivo (goal)
+### ✔️ Objetivo (goal)
 Eu criei este repositório com o objetivo de registrar comandos, scripts, funções, classes, ou qualquer artefato que me demandou muito estudo e pesquisa, assim eu poderei centralizar informações relevantes para consulta posterior.
 
 Espero que este repositório também seja fonte de consulta e ajuda a outros estudantes e pesquisadores de TI.
