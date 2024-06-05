@@ -31,3 +31,11 @@ Alterar permissões (change permissions):
 $ sudo chown -R <user>:<user> arq.sh
 $ sudo chmod 755 arq.sh
 ```
+### npm comands
+package.json update
+```bash
+$ npm outdated               # verificar dependências que possuem atualização
+$ npm update                 # atualizações de dependências seguras
+$ npx npm-check-updates -u   # atualizar dependências para versões mais recentes
+$ npm install                # instalar dependências
+```
